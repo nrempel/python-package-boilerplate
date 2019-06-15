@@ -1,0 +1,9 @@
+setup.py
+package_boilerplate/__init__.py
+package_boilerplate/importable.py
+package_boilerplate.egg-info/PKG-INFO
+package_boilerplate.egg-info/SOURCES.txt
+package_boilerplate.egg-info/dependency_links.txt
+package_boilerplate.egg-info/requires.txt
+package_boilerplate.egg-info/top_level.txt
+scripts/boilerplate-cli
