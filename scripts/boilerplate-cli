@@ -1,8 +1,5 @@
 #!/usr/bin/env python
 
-# This script becomes available in the user's PATH
-# once it is installed via pip
-
 from package_boilerplate import main
 
 main()
